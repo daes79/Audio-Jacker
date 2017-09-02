@@ -1,0 +1,1 @@
+start cmd.exe /k pip install docutils pygments pypiwin32 kivy.deps.sdl2 kivy.deps.glew mutagen musicbrainzngs youtube_dl pyperclip validators Pillow kivy.deps.gstreamer kivy kivy_examples
